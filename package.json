@@ -1,0 +1,17 @@
+{
+  "name": "exercicio-m19---utilizando-bem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.83.0"
+  }
+}
